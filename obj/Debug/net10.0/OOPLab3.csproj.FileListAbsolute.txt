@@ -1,0 +1,15 @@
+C:\Users\Zalman\source\repos\OOPLab3\OOPLab3\obj\Debug\net10.0\OOPLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zalman\source\repos\OOPLab3\OOPLab3\obj\Debug\net10.0\OOPLab3.AssemblyInfoInputs.cache
+C:\Users\Zalman\source\repos\OOPLab3\OOPLab3\obj\Debug\net10.0\OOPLab3.AssemblyInfo.cs
+C:\Users\Zalman\source\repos\OOPLab3\OOPLab3\obj\Debug\net10.0\OOPLab3.csproj.CoreCompileInputs.cache
+C:\Users\Zalman\source\repos\OOPLab3\OOPLab3\bin\Debug\net10.0\OOPLab3.exe
+C:\Users\Zalman\source\repos\OOPLab3\OOPLab3\bin\Debug\net10.0\OOPLab3.deps.json
+C:\Users\Zalman\source\repos\OOPLab3\OOPLab3\bin\Debug\net10.0\OOPLab3.runtimeconfig.json
+C:\Users\Zalman\source\repos\OOPLab3\OOPLab3\bin\Debug\net10.0\OOPLab3.dll
+C:\Users\Zalman\source\repos\OOPLab3\OOPLab3\bin\Debug\net10.0\OOPLab3.pdb
+C:\Users\Zalman\source\repos\OOPLab3\OOPLab3\obj\Debug\net10.0\OOPLab3.dll
+C:\Users\Zalman\source\repos\OOPLab3\OOPLab3\obj\Debug\net10.0\refint\OOPLab3.dll
+C:\Users\Zalman\source\repos\OOPLab3\OOPLab3\obj\Debug\net10.0\OOPLab3.pdb
+C:\Users\Zalman\source\repos\OOPLab3\OOPLab3\obj\Debug\net10.0\OOPLab3.genruntimeconfig.cache
+C:\Users\Zalman\source\repos\OOPLab3\OOPLab3\obj\Debug\net10.0\ref\OOPLab3.dll
+C:\Users\Zalman\source\repos\OOPLab3\OOPLab3\obj\Debug\net10.0\OOPLab3.csproj.Up2Date
